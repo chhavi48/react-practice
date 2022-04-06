@@ -1,13 +1,17 @@
 
 import './App.css';
-import List from './day1/List';
+import List,{List2} from './day1/List';
 function App() {
   return (
     <div className="App">
     
      hello folks  i am here haa haa
      no naaaa
-     <List/>
+     <List heading="Mobile application"/>
+
+     <List2/>
+   
+     <li/>
     </div>
   );
 }
