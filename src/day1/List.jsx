@@ -24,7 +24,24 @@ export const List2 = () =>{
           <li>iphone</li>
           <li>window</li>
        </ul>
+       
     </React.Fragment>
    
+}
+export const buttns = () =>{
+   <React.Fragment>
+      <div>
+         <button>one</button>
+      </div>
+      <div>
+         <button>two</button>
+      </div>
+      <div>
+         <button>three</button>
+      </div>
+      <div>
+         <button>four</button>
+      </div>
+   </React.Fragment>
 }
 export default List
